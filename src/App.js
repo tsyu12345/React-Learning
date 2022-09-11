@@ -6,7 +6,7 @@ function App() {
 		<div id="root">
 			<h1>React App</h1>
 			<Button 
-				text="FUCK ME"
+				text="After Click, add counter. look at console"
 			/>
 		</div>
 	);
